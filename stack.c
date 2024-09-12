@@ -1,4 +1,4 @@
-
+//stack using array implementation
 #include <stdio.h>
 #include<stdbool.h>
 #define max 4
